@@ -3,7 +3,7 @@
 int main(){
     int m,n;
     printf("\n\tINPUT VALUES\n------------------------------\n");
-    printf("Matrix1 & Matrix 2: Enter m,n: ");
+    printf("Matrix1 & Matrix2: Enter m,n: ");
     scanf("%d %d",&m,&n);
 
     int matrix[m][n];
